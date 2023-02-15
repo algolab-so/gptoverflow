@@ -1,6 +1,6 @@
 {
   "name": "GPTOverflow",
-  "description": "GPTOverflow is designed to help you find answers to your programming questions on Stack Overflow with ease. With this extension, you can get the answers you need quickly and accurately, saving you valuable time and effort.",
+  "description": "GPTOverflow simplifies finding programming answers on Stack Overflow.",
   "default_locale": "en",
   "version": "2023.02.15",
   "manifest_version": 2,
