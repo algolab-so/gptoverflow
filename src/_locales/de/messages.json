@@ -1,8 +1,8 @@
 {
   "appName": {
-    "message": "ChatGPT for Google"
+    "message": "GPTOverflow"
   },
   "appDesc": {
-    "message": "ChatGPT Antworten neben den Suchmaschinenergebnissen anzeigen"
+    "message": "GPTOverflow is designed to help you find answers to your programming questions on Stack Overflow with ease."
   }
 }
