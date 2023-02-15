@@ -60,24 +60,14 @@ function OptionsPage(props: { theme: Theme; onThemeChange: (theme: Theme) => voi
           <span className="font-semibold">GPTOverflow (v{getExtensionVersion()})</span>
         </div>
         <div className="flex flex-row gap-3">
-          <a href="https://chatgpt-for-google.canny.io/changelog" target="_blank" rel="noreferrer">
-            Changelog
-          </a>
           <a
-            href="https://github.com/wong2/chat-gpt-google-extension/issues"
+            href="https://github.com/algolab-so/gptoverflow/issues"
             target="_blank"
             rel="noreferrer"
           >
             Feedback
           </a>
-          <a href="https://twitter.com/chatgpt4google" target="_blank" rel="noreferrer">
-            Twitter
-          </a>
-          <a
-            href="https://github.com/wong2/chat-gpt-google-extension"
-            target="_blank"
-            rel="noreferrer"
-          >
+          <a href="https://github.com/algolab-so/gptoverflow" target="_blank" rel="noreferrer">
             Source code
           </a>
         </div>
